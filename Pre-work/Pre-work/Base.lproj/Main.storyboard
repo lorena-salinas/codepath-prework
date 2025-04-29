@@ -68,10 +68,9 @@
                                     <action selector="changeFont:" destination="BYZ-38-t0r" eventType="touchUpInside" id="tk4-xs-PW5"/>
                                 </connections>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="c9ee0b7512b250c415f2bc9e5ae0b6f3" translatesAutoresizingMaskIntoConstraints="NO" id="phi-zy-WEj">
-                                <rect key="frame" x="76" y="373" width="240" height="128"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="c9ee0b7512b250c415f2bc9e5ae0b6f3-removebg-preview" translatesAutoresizingMaskIntoConstraints="NO" id="JWV-II-r0r">
+                                <rect key="frame" x="76" y="362" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -89,7 +88,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="c9ee0b7512b250c415f2bc9e5ae0b6f3" width="416" height="523"/>
+        <image name="c9ee0b7512b250c415f2bc9e5ae0b6f3-removebg-preview" width="416" height="523"/>
         <image name="photo-1579546929662-711aa81148cf" width="3000" height="2000"/>
         <namedColor name="AccentColor">
             <color red="0.0" green="0.46000000000000002" blue="0.89000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
