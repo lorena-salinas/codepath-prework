@@ -28,18 +28,17 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 
 List of favorite apps: 
-
     ○ Pinterest 
         • Ability to save and organize inspiration into boards. 
         • The Home Feed shows recommended pins based on the user's interests. 
         • Pins are displayed in a visually appealing grid format that makes it
         fun to scroll. 
-     
+        
     ○ Spotify 
         • Ability to change playlist covers. 
         • Users are able to like songs in addition to adding them to a playlist. 
         • Recommends similar songs under each playlist. 
-     
+        
     ○ Letterboxd 
         • Ability to review, like, and add movies to lists. 
         • Ability to interact with other users through comments. 
