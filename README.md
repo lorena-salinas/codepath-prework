@@ -17,7 +17,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[Imgur](https://imgur.com/stDesrJ)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/stDesrJ" data-context="false" ><a href="//imgur.com/a/stDesrJ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## App Brainstorming (Step 4)
 
